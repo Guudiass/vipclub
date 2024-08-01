@@ -2457,3 +2457,4 @@ const wbotMessageListener = async (wbot: Session, companyId: number): Promise<vo
 };
 
 export { handleMessage, wbotMessageListener };
+
